@@ -220,3 +220,7 @@ footer .button:hover{
     cursor: pointer;
     
 }
+
+input:invalid{
+    border: 1px solid #FF1010;
+}
